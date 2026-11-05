@@ -1,7 +1,7 @@
 # Hi there, I'm Nikhil Choudhary! 👋
 
 ### 🎓 About Me
-- 🚀 **B.Tech CSE Student** at Lovely Professional University.
+- 🚀 **B.Tech Student in Computer Science & Engineering** at Lovely Professional University.
 - 🧠 Deeply passionate about building practical projects in **Python** & **Machine Learning**.
 - 🛠️ Actively learning, experimenting, and expanding my development skillset.
 
