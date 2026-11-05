@@ -10,8 +10,7 @@
 - **Domains:** Data Science, Machine Learning, Computer Science Essentials
 
 ### 📊 GitHub Stats
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilChoudhary-10&show_icons=true&theme=dark)]
-(https://github.com/NikhilChoudhary-10)
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilChoudhary-10&show_icons=true&theme=dark)](https://github.com/NikhilChoudhary-10)
 <!--
 **NikhilChoudhary-10/NikhilChoudhary-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
